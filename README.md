@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/potatooBot/lc_munch/tree/master/0307-range-sum-query-mutable) |
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -64,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Sorting
 |  |
 | ------- |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 ## Prefix Sum
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
+| [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Ordered Set
 |  |
 | ------- |
