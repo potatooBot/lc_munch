@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/potatooBot/lc_munch/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -137,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Recursion
+|  |
+| ------- |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 <!---LeetCode Topics End-->
