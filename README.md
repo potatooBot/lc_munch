@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0307-range-sum-query-mutable](https://github.com/potatooBot/lc_munch/tree/master/0307-range-sum-query-mutable) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
@@ -150,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
