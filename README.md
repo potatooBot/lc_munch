@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,12 +82,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Sorting
 |  |
 | ------- |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
+| [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Prefix Sum
 |  |
 | ------- |
