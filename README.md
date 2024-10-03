@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 ## Trie
 |  |
