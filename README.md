@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/potatooBot/lc_munch/tree/master/0383-ransom-note) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/potatooBot/lc_munch/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
 ## Counting
@@ -65,11 +67,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Backtracking
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
+| [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 ## Trie
 |  |
 | ------- |
