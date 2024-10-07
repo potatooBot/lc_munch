@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/potatooBot/lc_munch/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Depth-First Search
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
