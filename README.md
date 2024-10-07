@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0332-reconstruct-itinerary](https://github.com/potatooBot/lc_munch/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/potatooBot/lc_munch/tree/master/0386-lexicographical-numbers) |
 ## Design
 |  |
@@ -224,4 +225,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
+## Graph
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/potatooBot/lc_munch/tree/master/0332-reconstruct-itinerary) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [0332-reconstruct-itinerary](https://github.com/potatooBot/lc_munch/tree/master/0332-reconstruct-itinerary) |
 <!---LeetCode Topics End-->
