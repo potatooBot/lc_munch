@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/potatooBot/lc_munch/tree/master/0383-ransom-note) |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
+| [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Sliding Window
 |  |
