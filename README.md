@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 ## String
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/potatooBot/lc_munch/tree/master/3195-separate-black-and-white-balls) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/potatooBot/lc_munch/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Counting
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
 ## Dynamic Programming
 |  |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3195-separate-black-and-white-balls](https://github.com/potatooBot/lc_munch/tree/master/3195-separate-black-and-white-balls) |
+| [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Breadth-First Search
 |  |
 | ------- |
