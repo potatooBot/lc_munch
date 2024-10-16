@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
 | [0500-keyboard-row](https://github.com/potatooBot/lc_munch/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0682-baseball-game](https://github.com/potatooBot/lc_munch/tree/master/0682-baseball-game) |
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/potatooBot/lc_munch/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/potatooBot/lc_munch/tree/master/0682-baseball-game) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/potatooBot/lc_munch/tree/master/0682-baseball-game) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/potatooBot/lc_munch/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
