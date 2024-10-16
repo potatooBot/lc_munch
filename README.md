@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0120-triangle](https://github.com/potatooBot/lc_munch/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
+| [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
 | [0307-range-sum-query-mutable](https://github.com/potatooBot/lc_munch/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
 | [0500-keyboard-row](https://github.com/potatooBot/lc_munch/tree/master/0500-keyboard-row) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/potatooBot/lc_munch/tree/master/0016-3sum-closest) |
+| [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
@@ -323,4 +325,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/potatooBot/lc_munch/tree/master/0437-path-sum-iii) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/potatooBot/lc_munch/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
+## Radix Sort
+|  |
+| ------- |
+| [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
 <!---LeetCode Topics End-->
