@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/potatooBot/lc_munch/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/potatooBot/lc_munch/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
+| [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/potatooBot/lc_munch/tree/master/0332-reconstruct-itinerary) |
 | [0386-lexicographical-numbers](https://github.com/potatooBot/lc_munch/tree/master/0386-lexicographical-numbers) |
 | [0437-path-sum-iii](https://github.com/potatooBot/lc_munch/tree/master/0437-path-sum-iii) |
@@ -300,11 +303,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/potatooBot/lc_munch/tree/master/0437-path-sum-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/potatooBot/lc_munch/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [0437-path-sum-iii](https://github.com/potatooBot/lc_munch/tree/master/0437-path-sum-iii) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/potatooBot/lc_munch/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 <!---LeetCode Topics End-->
