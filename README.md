@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/potatooBot/lc_munch/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## String
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/potatooBot/lc_munch/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -264,11 +266,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/potatooBot/lc_munch/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Sliding Window
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/potatooBot/lc_munch/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Enumeration
 |  |
 | ------- |
