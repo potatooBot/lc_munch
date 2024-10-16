@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
 | [0859-design-circular-deque](https://github.com/potatooBot/lc_munch/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
+| [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/potatooBot/lc_munch/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/potatooBot/lc_munch/tree/master/0016-3sum-closest) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/potatooBot/lc_munch/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
+| [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
