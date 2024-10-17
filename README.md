@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/potatooBot/lc_munch/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
