@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/potatooBot/lc_munch/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/potatooBot/lc_munch/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/potatooBot/lc_munch/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/potatooBot/lc_munch/tree/master/0371-sum-of-two-integers) |
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -308,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 ## Graph
