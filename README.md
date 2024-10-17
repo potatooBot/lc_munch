@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/potatooBot/lc_munch/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
+| [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/potatooBot/lc_munch/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
+| [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/potatooBot/lc_munch/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/potatooBot/lc_munch/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
+| [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/potatooBot/lc_munch/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
