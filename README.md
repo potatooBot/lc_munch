@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/potatooBot/lc_munch/tree/master/0383-ransom-note) |
 | [0500-keyboard-row](https://github.com/potatooBot/lc_munch/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/potatooBot/lc_munch/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0974-reorder-data-in-log-files](https://github.com/potatooBot/lc_munch/tree/master/0974-reorder-data-in-log-files) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/potatooBot/lc_munch/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0257-binary-tree-paths](https://github.com/potatooBot/lc_munch/tree/master/0257-binary-tree-paths) |
+| [0872-split-array-into-fibonacci-sequence](https://github.com/potatooBot/lc_munch/tree/master/0872-split-array-into-fibonacci-sequence) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/potatooBot/lc_munch/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
