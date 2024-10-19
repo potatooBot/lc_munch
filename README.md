@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/potatooBot/lc_munch/tree/master/0859-design-circular-deque) |
 | [0883-car-fleet](https://github.com/potatooBot/lc_munch/tree/master/0883-car-fleet) |
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
+| [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/potatooBot/lc_munch/tree/master/0974-reorder-data-in-log-files) |
 | [1002-maximum-width-ramp](https://github.com/potatooBot/lc_munch/tree/master/1002-maximum-width-ramp) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0883-car-fleet](https://github.com/potatooBot/lc_munch/tree/master/0883-car-fleet) |
+| [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [0974-reorder-data-in-log-files](https://github.com/potatooBot/lc_munch/tree/master/0974-reorder-data-in-log-files) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/potatooBot/lc_munch/tree/master/0016-3sum-closest) |
 | [0567-permutation-in-string](https://github.com/potatooBot/lc_munch/tree/master/0567-permutation-in-string) |
+| [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
