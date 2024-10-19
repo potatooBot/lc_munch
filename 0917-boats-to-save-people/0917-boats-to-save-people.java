@@ -3,7 +3,6 @@ class Solution {
         int ans=0;
 
 Arrays.sort(peo);
-System.out.println(Arrays.toString(peo));
        int start=0;
        int end=peo.length-1;
        while(start<=end){
