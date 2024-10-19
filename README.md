@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
+| [2128-reverse-prefix-of-word](https://github.com/potatooBot/lc_munch/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/potatooBot/lc_munch/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/potatooBot/lc_munch/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/potatooBot/lc_munch/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Bit Manipulation
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2128-reverse-prefix-of-word](https://github.com/potatooBot/lc_munch/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/potatooBot/lc_munch/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
