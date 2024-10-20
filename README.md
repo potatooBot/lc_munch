@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/potatooBot/lc_munch/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
 | [2107-find-unique-binary-string](https://github.com/potatooBot/lc_munch/tree/master/2107-find-unique-binary-string) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-reorder-data-in-log-files](https://github.com/potatooBot/lc_munch/tree/master/0974-reorder-data-in-log-files) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2524-largest-positive-integer-that-exists-with-its-negative](https://github.com/potatooBot/lc_munch/tree/master/2524-largest-positive-integer-that-exists-with-its-negative) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/potatooBot/lc_munch/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
 ## Ordered Set
 |  |
@@ -304,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0958-sort-array-by-parity-ii](https://github.com/potatooBot/lc_munch/tree/master/0958-sort-array-by-parity-ii) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
+| [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/potatooBot/lc_munch/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2128-reverse-prefix-of-word](https://github.com/potatooBot/lc_munch/tree/master/2128-reverse-prefix-of-word) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/potatooBot/lc_munch/tree/master/2271-rearrange-array-elements-by-sign) |
