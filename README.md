@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/potatooBot/lc_munch/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/potatooBot/lc_munch/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/potatooBot/lc_munch/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/potatooBot/lc_munch/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/potatooBot/lc_munch/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1976-splitting-a-string-into-descending-consecutive-values](https://github.com/potatooBot/lc_munch/tree/master/1976-splitting-a-string-into-descending-consecutive-values) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/potatooBot/lc_munch/tree/master/1002-maximum-width-ramp) |
 | [1009-pancake-sorting](https://github.com/potatooBot/lc_munch/tree/master/1009-pancake-sorting) |
 | [1256-rank-transform-of-an-array](https://github.com/potatooBot/lc_munch/tree/master/1256-rank-transform-of-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/potatooBot/lc_munch/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/potatooBot/lc_munch/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/potatooBot/lc_munch/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0386-lexicographical-numbers](https://github.com/potatooBot/lc_munch/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/potatooBot/lc_munch/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/potatooBot/lc_munch/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/potatooBot/lc_munch/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -232,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0437-path-sum-iii](https://github.com/potatooBot/lc_munch/tree/master/0437-path-sum-iii) |
 | [0988-flip-equivalent-binary-trees](https://github.com/potatooBot/lc_munch/tree/master/0988-flip-equivalent-binary-trees) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/potatooBot/lc_munch/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Design
 |  |
 | ------- |
