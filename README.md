@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0906-walking-robot-simulation](https://github.com/potatooBot/lc_munch/tree/master/0906-walking-robot-simulation) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/potatooBot/lc_munch/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/potatooBot/lc_munch/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/potatooBot/lc_munch/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/potatooBot/lc_munch/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/potatooBot/lc_munch/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/potatooBot/lc_munch/tree/master/3600-find-the-k-th-character-in-string-game-i) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/potatooBot/lc_munch/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/potatooBot/lc_munch/tree/master/0371-sum-of-two-integers) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/potatooBot/lc_munch/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/potatooBot/lc_munch/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/potatooBot/lc_munch/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3275-minimum-number-of-pushes-to-type-word-i](https://github.com/potatooBot/lc_munch/tree/master/3275-minimum-number-of-pushes-to-type-word-i) |
 | [3337-count-substrings-starting-and-ending-with-given-character](https://github.com/potatooBot/lc_munch/tree/master/3337-count-substrings-starting-and-ending-with-given-character) |
