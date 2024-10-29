@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/potatooBot/lc_munch/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/potatooBot/lc_munch/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 | [3510-maximize-the-total-height-of-unique-towers](https://github.com/potatooBot/lc_munch/tree/master/3510-maximize-the-total-height-of-unique-towers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/potatooBot/lc_munch/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2883-partition-string-into-minimum-beautiful-substrings](https://github.com/potatooBot/lc_munch/tree/master/2883-partition-string-into-minimum-beautiful-substrings) |
 | [3487-find-maximum-removals-from-source-string](https://github.com/potatooBot/lc_munch/tree/master/3487-find-maximum-removals-from-source-string) |
 ## Backtracking
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/potatooBot/lc_munch/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/potatooBot/lc_munch/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Combinatorics
 |  |
 | ------- |
