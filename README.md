@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/potatooBot/lc_munch/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1065-binary-string-with-substrings-representing-1-to-n](https://github.com/potatooBot/lc_munch/tree/master/1065-binary-string-with-substrings-representing-1-to-n) |
 | [1197-parsing-a-boolean-expression](https://github.com/potatooBot/lc_munch/tree/master/1197-parsing-a-boolean-expression) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/potatooBot/lc_munch/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1304-longest-happy-string](https://github.com/potatooBot/lc_munch/tree/master/1304-longest-happy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/potatooBot/lc_munch/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/potatooBot/lc_munch/tree/master/1667-find-kth-bit-in-nth-binary-string) |
