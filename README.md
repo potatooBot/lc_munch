@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/potatooBot/lc_munch/tree/master/0164-maximum-gap) |
 | [0307-range-sum-query-mutable](https://github.com/potatooBot/lc_munch/tree/master/0307-range-sum-query-mutable) |
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/potatooBot/lc_munch/tree/master/0410-split-array-largest-sum) |
 | [0500-keyboard-row](https://github.com/potatooBot/lc_munch/tree/master/0500-keyboard-row) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0682-baseball-game](https://github.com/potatooBot/lc_munch/tree/master/0682-baseball-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/potatooBot/lc_munch/tree/master/0410-split-array-largest-sum) |
 | [2754-maximum-strength-of-a-group](https://github.com/potatooBot/lc_munch/tree/master/2754-maximum-strength-of-a-group) |
 | [2755-extra-characters-in-a-string](https://github.com/potatooBot/lc_munch/tree/master/2755-extra-characters-in-a-string) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/potatooBot/lc_munch/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/potatooBot/lc_munch/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/potatooBot/lc_munch/tree/master/0410-split-array-largest-sum) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/potatooBot/lc_munch/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0917-boats-to-save-people](https://github.com/potatooBot/lc_munch/tree/master/0917-boats-to-save-people) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/potatooBot/lc_munch/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -222,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/potatooBot/lc_munch/tree/master/0410-split-array-largest-sum) |
 | [1694-make-sum-divisible-by-p](https://github.com/potatooBot/lc_munch/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/potatooBot/lc_munch/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2655-rearrange-array-to-maximize-prefix-score](https://github.com/potatooBot/lc_munch/tree/master/2655-rearrange-array-to-maximize-prefix-score) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/potatooBot/lc_munch/tree/master/0410-split-array-largest-sum) |
 | [0729-my-calendar-i](https://github.com/potatooBot/lc_munch/tree/master/0729-my-calendar-i) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/potatooBot/lc_munch/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/potatooBot/lc_munch/tree/master/2600-maximum-tastiness-of-candy-basket) |
