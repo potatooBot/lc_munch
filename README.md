@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/potatooBot/lc_munch/tree/master/0037-sudoku-solver) |
 | [0139-word-break](https://github.com/potatooBot/lc_munch/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
 | [0383-ransom-note](https://github.com/potatooBot/lc_munch/tree/master/0383-ransom-note) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/potatooBot/lc_munch/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/potatooBot/lc_munch/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/potatooBot/lc_munch/tree/master/0063-unique-paths-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/potatooBot/lc_munch/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/potatooBot/lc_munch/tree/master/0051-n-queens) |
 | [0093-restore-ip-addresses](https://github.com/potatooBot/lc_munch/tree/master/0093-restore-ip-addresses) |
 | [0140-word-break-ii](https://github.com/potatooBot/lc_munch/tree/master/0140-word-break-ii) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/potatooBot/lc_munch/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/potatooBot/lc_munch/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/potatooBot/lc_munch/tree/master/0063-unique-paths-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/potatooBot/lc_munch/tree/master/0407-trapping-rain-water-ii) |
